@@ -12,6 +12,8 @@ import FormDemo2 from './FormDemo2';
 
 export default class App extends Component {
 
+  /* Deneme123 */
+
   state = { currentCategory: "", products: [], cart: [] }
 
   componentDidMount() {
