@@ -13,7 +13,7 @@ import FormDemo2 from './FormDemo2';
 export default class App extends Component {
 
   /* Deneme123 */
-
+  /* conflict */
   state = { currentCategory: "", products: [], cart: [] }
 
   componentDidMount() {
